@@ -6,7 +6,7 @@ cfgv==3.4.0
 charset-normalizer==3.3.2
 click==8.1.7
 colorama==0.4.6
-dash==2.16.1
+dash
 dash-bootstrap-components==1.6.0
 dash-core-components==2.0.0
 dash-html-components==2.0.0
@@ -18,7 +18,7 @@ distlib==0.3.8
 docopt==0.6.2
 filelock==3.14.0
 Flask==3.0.3
-gunicorn==22.0.0
+gunicorn
 identify==2.5.36
 idna==3.7
 importlib_metadata==7.1.0
@@ -30,10 +30,10 @@ nest-asyncio==1.6.0
 nodeenv==1.8.0
 numpy==1.26.4
 packaging
-pandas==2.2.2
+pandas
 pipreqs==0.4.12
 platformdirs==4.2.1
-plotly==5.21.0
+plotly
 pluggy==1.5.0
 pre-commit==2.16.0
 py==1.11.0
